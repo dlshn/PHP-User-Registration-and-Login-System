@@ -29,7 +29,7 @@ A simple PHP user registration and login system with authentication and session 
 ## Screenshots
 
 ### Registration Page
-![Login Page](screenshots/register.png)
+![Registration Page](screenshots/register.png)
 
 ### Login Page
 ![Login Page](screenshots/login.png)
